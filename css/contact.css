@@ -1,0 +1,28 @@
+.contact-section{
+    width:50%;
+    height:500px;
+}
+
+.contact-form{
+    height:500px;
+    width:100%;
+    border:none;
+}
+
+.map{
+    height:250px;
+    width:650px;
+    border:none;
+}
+
+.info{
+    margin-top:50px;
+}
+
+.info h4:first-of-type{
+    padding-top:15px;
+}
+
+.info h4:last-of-type{
+    padding-top:15px;
+}

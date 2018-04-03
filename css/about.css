@@ -1,0 +1,27 @@
+.portrait-image{
+    border-radius:100%;
+    width:300px;
+    margin:0 auto;
+    display:block;
+    margin-top:85px;
+}
+
+.wrapper{
+    height:500px;
+    float:left;
+    background-color:rgba(0,0,0,.1);
+    
+
+.wrapper:first-child{
+    width:40%;
+}
+
+.wrapper:last-child{
+    width:60%;
+}
+.wrapper>h1{
+    font-family: 'Montserrat', sans-serif;
+    color:;
+    margin-top:200px;
+}
+/* End Main Content */
